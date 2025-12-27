@@ -1,6 +1,7 @@
 # PPE-Vision-
 # Real-Time PPE Detection System
 <img width="1918" height="907" alt="Screenshot 2025-11-28 161022" src="https://github.com/user-attachments/assets/61d653e3-55d8-408c-84c6-779566f1823d" />
+
 <img width="1856" height="911" alt="Screenshot 2025-11-28 161054" src="https://github.com/user-attachments/assets/ba2f38b3-9480-4338-8556-d02d1d19966c" />
 
 
@@ -51,6 +52,10 @@ Copy code
 - MongoDB stores user data and authentication info.
 
 ---
+Author:
+
+Rajlaxmi Watgule – GitHub
+ | LinkedIn
 
 ## Installation
 
@@ -160,7 +165,4 @@ Deploy on cloud for large-scale monitoring.
 
 Mobile app integration for remote monitoring.
 
-Author:
 
-Rajlaxmi Watgule – GitHub
- | LinkedIn
